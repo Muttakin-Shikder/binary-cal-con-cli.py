@@ -18,9 +18,8 @@ python binary-cal-con-cli.py
 # requirments
 <li>
   python
-  </li>
-if you use linux/macos so open your terminal and type:
-```htm
-sudo apt install python3
-```
-or if you use windows so, you have to go to the python.org website.
+</li><br/>
+if you use linux/macos so open your terminal and type:<br/>
+sudo apt install python3<br/>
+or if you use windows so go to the python.org website
+
