@@ -28,17 +28,17 @@ elif select==2:
         # fb=int(input("input your first binary number: "))
         sb=int(input("input your second binary number: "))
 
-        print(bin(sb-fb)+" this binary of ",sb+fb)
+        print(bin(sb-fb)+" this binary of ",sb-fb)
 
     if aritop==3:
         # fb=int(input("input your first binary number: "))
         sb=int(input("input your second binary number: "))
 
-        print(bin(sb/fb)+" this binary of ",sb+fb)
+        print(bin(sb/fb)+" this binary of ",sb/fb)
 
     if aritop==4:
         # fb=int(input("input your first binary number: "))
         sb=int(input("input your second binary number: "))
-        print(bin(sb*fb)+" this binary of ",sb+fb)
+        print(bin(sb*fb)+" this binary of ",sb*fb)
 else:
     exit()
